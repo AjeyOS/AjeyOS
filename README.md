@@ -5,12 +5,11 @@
 <!--     <a href="https://yourportfolio.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-6F42C1?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio">
     </a> -->
-    <a href="https://linkedin.com/in/ajay-kumar-04/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:ajayhunt04@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
+  <a href="https://linkedin.com/in/ajay-kumar-04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ajayhunt04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 <!--     <a href="https://github.com/yourusername" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
     </a> -->
