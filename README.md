@@ -21,7 +21,7 @@
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 20px; border: 1px solid #6F42C1; max-width: 800px; margin: 0 auto;">
-    <h2 style="color: #6F42C1; margin-top: 0;">Ajay Kumar</h2>
+<!--     <h2 style="color: #6F42C1; margin-top: 0;">Ajay Kumar</h2> -->
     <p style="font-size: 18px; line-height: 1.6;">
       🎯 <strong>Senior Frontend Engineer | React, TypeScript, Redux, Angular | 5+ Years Experience</strong><br><br>
       I'm a results-driven frontend developer with 5+ years of experience building high-performance, scalable web applications using modern JavaScript frameworks. My expertise lies in creating pixel-perfect UI, architecting reusable components, integrating APIs, and delivering responsive, user-centric experiences.
