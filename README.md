@@ -83,7 +83,7 @@
 
 ## 💼 Professional Experience Highlights
 
-- 🚀 Migrated large-scale enterprise React app to Angular 17 with TypeScript and Kendo UI, improving modularity and reducing tech debt  
+- 🚀 Migrated enterprise-scale React app to Angular 17 with TypeScript and Kendo UI, improving modularity and reducing tech debt
 - 📊 Built real-time dashboard apps for gaming and education platforms using WebRTC, Socket.io, and dynamic charts  
 - 🧩 Developed role-based access systems, reusable UI components, and multilingual support across multiple apps  
 - 🤝 Collaborated in Agile teams to ship production-ready features with strong CI/CD and API integration practices
